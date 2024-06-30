@@ -1,0 +1,30 @@
+C:\Users\priya\source\repos\fingerprint security system\bin\Debug\fingerprint security system.exe.config
+C:\Users\priya\source\repos\fingerprint security system\bin\Debug\fingerprint security system.exe
+C:\Users\priya\source\repos\fingerprint security system\bin\Debug\fingerprint security system.pdb
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.csproj.AssemblyReference.cache
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.csproj.SuggestedBindingRedirects.cache
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.Form1.resources
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.Properties.Resources.resources
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.csproj.GenerateResource.cache
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.csproj.CoreCompileInputs.cache
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.exe
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint security system.pdb
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.login.resources
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.fingerscan.resources
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.fingerprintcheck.resources
+C:\Users\priya\source\repos\fingerprint security system\obj\Debug\fingerprint_security_system.practicetest.resources
+D:\p1\multipattern fs\fingerprint security system\bin\Debug\fingerprint security system.exe.config
+D:\p1\multipattern fs\fingerprint security system\bin\Debug\fingerprint security system.exe
+D:\p1\multipattern fs\fingerprint security system\bin\Debug\fingerprint security system.pdb
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.csproj.AssemblyReference.cache
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.csproj.SuggestedBindingRedirects.cache
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.fingerprintcheck.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.fingerscan.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.Form1.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.login.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.practicetest.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint_security_system.Properties.Resources.resources
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.csproj.GenerateResource.cache
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.csproj.CoreCompileInputs.cache
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.exe
+D:\p1\multipattern fs\fingerprint security system\obj\Debug\fingerprint security system.pdb
